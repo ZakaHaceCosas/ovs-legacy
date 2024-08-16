@@ -1,0 +1,32 @@
+{
+    "SAMPLE_SET_1": {
+        "SAMPLE_I_1": {
+            "name": "SAMPLE ITEM 1",
+            "stock": 100
+        },
+        "SAMPLE_I_2": {
+            "name": "SAMPLE ITEM 2",
+            "stock": 500
+        }
+    },
+    "LOW_SAMPLE_SET": {
+        "LOW_STOCK_S": {
+            "name": "LOW STOCK SAMPLE ITEM",
+            "stock": 10
+        },
+        "NO_STOCK_S": {
+            "name": "NO STOCK SAMPLE ITEM",
+            "stock": 0
+        }
+    },
+    "SAMPLE_SET_3": {
+        "YET_ANOTHER_S_1": {
+            "name": "YET ANOTHER SAMPLE ITEM 1",
+            "stock": 100
+        },
+        "YET_ANOTHER_S_2": {
+            "name": "YET ANOTHER SAMPLE ITEM 2",
+            "stock": 500
+        }
+    }
+}
